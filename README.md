@@ -1,6 +1,7 @@
 ![](public/banner.png)
-<div style="display:flex;justify-content:center">
-    <a href="" alt="LinkedIn" style="margin: 0 5">
+
+<p align="center">
+        <a href="" alt="LinkedIn" style="margin: 0 5">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" />
     </a>
     <a href="mailto:gfmaximo97@gmail.com" alt="Email" style="margin: 0 5">
@@ -12,7 +13,7 @@
     <a href="https://github.com/GoldenMaximo/" alt="Email" style="margin: 0 5">
         <img src="https://img.shields.io/github/followers/GoldenMaximo?label=Follow&style=social" />
     </a>
-</div>
+</p>
 
 <!--
 **GoldenMaximo/GoldenMaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
