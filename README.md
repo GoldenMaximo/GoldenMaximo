@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-    <a href="" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" />
-    </a>
     <a href="mailto:gfmaximo97@gmail.com" alt="Email">
         <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
     </a>
