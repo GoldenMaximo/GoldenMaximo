@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/banner.png" />
+    <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.png" alt="GoldenMaximo" />
 </p>
 
 <p align="center">
