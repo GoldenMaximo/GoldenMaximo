@@ -1,4 +1,6 @@
-![](public/banner.png)
+<p align="center">
+    <img src="public/banner.png" />
+</p>
 
 <p align="center">
     <a href="" alt="LinkedIn">
