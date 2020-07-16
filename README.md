@@ -10,6 +10,9 @@
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" alt="CodeWars">
         <img src="https://img.shields.io/badge/CodeWars-6%20Kyu-yellow?logo=codewars&logoColor=red" />
     </a>
+    <a href="https://github.com/GoldenMaximo/" alt="Curriculum-Vitae">
+        <img src="https://img.shields.io/badge/-Curriculum--Vitae-orange" />
+    </a>
     <a href="https://github.com/GoldenMaximo/" alt="Email">
         <img src="https://img.shields.io/github/followers/GoldenMaximo?label=Follow&style=social" />
     </a>
