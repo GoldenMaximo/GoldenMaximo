@@ -82,6 +82,9 @@
     <a href="https://about.gitlab.com/" alt="GitLab">
         <img src="https://img.shields.io/badge/-GitLab-black?logo=gitlab" />
     </a>
+    <a href="https://bitbucket.org/product" alt="Bitbucket">
+        <img src="https://img.shields.io/badge/-Bitbucket-black?logo=bitbucket&logoColor=0052CC" />
+    </a>
     <a href="https://www.npmjs.com/" alt="NPM">
         <img src="https://img.shields.io/badge/-NPM-black?logo=npm&logoColor=CB3837" />
     </a>
