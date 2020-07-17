@@ -58,6 +58,9 @@
     <a href="https://angularjs.org/" alt="AngularJS">
         <img src="https://img.shields.io/badge/-AngularJS-black?logo=AngularJS&logoColor=E23237" />
     </a>
+    <a href="https://expo.io/" alt="Expo">
+        <img src="https://img.shields.io/badge/-Expo-black?logo=Expo" />
+    </a>
     <a href="https://jquery.com/" alt="JQuery">
         <img src="https://img.shields.io/badge/-JQuery-black?logo=JQuery&logoColor=0769AD" />
     </a>
