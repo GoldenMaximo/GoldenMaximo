@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/-Yarn-black?logo=yarn&logoColor=2C8EBB" />
     </a>
     <a href="https://www.atlassian.com/software/jira" alt="Jira">
-        <img src="https://img.shields.io/badge/-Jira-black?logo=Jira&logoColor=0052CC" />
+        <img src="https://img.shields.io/badge/-Jira-black?logo=jira&logoColor=0052CC" />
     </a>
     <a href="https://trello.com/" alt="Trello">
         <img src="https://img.shields.io/badge/-Trello-black?logo=trello&logoColor=0079BF" />
