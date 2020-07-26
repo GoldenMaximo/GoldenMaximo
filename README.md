@@ -121,4 +121,10 @@
     <a href="https://www.gimp.org/" alt="GIMP">
         <img src="https://img.shields.io/badge/-GIMP-black?logo=GIMP&logoColor=5C5543" />
     </a>
+    <a href="https://ubuntu.com/" alt="Ubuntu">
+        <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=E95420" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows" alt="Windows">
+        <img src="https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=0078D6" />
+    </a>
 </p>
