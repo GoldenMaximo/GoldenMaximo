@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Developer-@3%20Years-yellow?logo=javascript" />
     </a>
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
-        <img src="https://img.shields.io/badge/CodeWars-6%20Kyu-yellow?logo=codewars&logoColor=red" />
+        <img src="https://www.codewars.com/users/GoldenMaximo/badges/micro" />
     </a>
     <a href="https://goldenmaximo.github.io/curriculum-vitae/" target="_blank" alt="Curriculum-Vitae">
         <img src="https://img.shields.io/badge/-Curriculum--Vitae-orange" />
