@@ -49,6 +49,9 @@
     <a href="https://nodejs.org/en/" alt="Node.js">
         <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js" />
     </a>
+    <a href="https://www.mongodb.com/" alt="MongoDB">
+        <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=#47A248" />
+    </a>
     <a href="https://www.mysql.com/" alt="MySQL">
         <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=blue" />
     </a>
