@@ -13,7 +13,7 @@
         <img src="https://www.codewars.com/users/GoldenMaximo/badges/micro" />
     </a>
     <a href="https://goldenmaximo.github.io/curriculum-vitae/" target="_blank" alt="Curriculum-Vitae">
-        <img src="https://img.shields.io/badge/-Curriculum--Vitae-orange" />
+        <img src="https://img.shields.io/badge/-Curriculum--Vitae-informational" />
     </a>
     <a href="https://github.com/GoldenMaximo/" alt="Follow me on GitHub">
         <img src="https://img.shields.io/github/followers/GoldenMaximo?label=Follow&style=social" />
