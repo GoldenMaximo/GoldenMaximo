@@ -20,9 +20,9 @@
     </a>
 </p>
 
-<p align="center">
-    Worked with / Delved into
-</p>
+<h3 align="center">
+    I've Worked with / Delved into
+</h3>
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="HTML">
