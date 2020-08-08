@@ -146,6 +146,6 @@
     Check out if I'm procrastinating:
 </h3>
 
-First Header | Second Header
+🔧✔️ | 🧡JS
 ------------ | -------------
 [![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact)](https://github.com/GoldenMaximo/github-readme-stats)
