@@ -141,6 +141,7 @@
 <p>I'm trying to git gud at <b>NodeJS</b> and backend development to score fullstack positions and stop recruiters from thinking I'm only a <b>REACT NATIVE</b> dev, <i>I'M NOT</i>!</p>
 
 <br />
+<br />
 <h3>
     Check out if I'm procrastinating:
 </h3>
