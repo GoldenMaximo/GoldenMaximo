@@ -132,6 +132,12 @@
 <hr />
 
 <h3>
+    Howdy partner 🤠
+</h3>
+
+<p>I'm into solving difficult problems and exercising logic, not too much into design and layout, contrary to my mostly frontend/mobile background.</p>
+
+<h3>
     I'm currently working on:
 </h3>
 
