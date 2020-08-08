@@ -128,3 +128,23 @@
         <img src="https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=0078D6" />
     </a>
 </p>
+
+<hr />
+
+<h3>
+    I'm currently working on:
+</h3>
+
+<a href="https://github.com/GoldenMaximo/Node.js-E-Commerce">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-E-Commerce" />
+</a>
+<p>I'm trying to git gud at <b>NodeJS</b> and backend development to score fullstack positions and stop recruiters from thinking I'm only a <b>REACT NATIVE</b> dev, <i>I'M NOT</i>!</p>
+
+<br />
+<h3>
+    Check out if I'm procrastinating:
+</h3>
+
+First Header | Second Header
+------------ | -------------
+[![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact)](https://github.com/GoldenMaximo/github-readme-stats)
