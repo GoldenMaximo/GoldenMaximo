@@ -135,7 +135,8 @@
     Howdy partner 🤠
 </h3>
 
-<p>I'm into solving difficult problems and exercising logic, not too much into design and layout, contrary to my mostly frontend/mobile background.</p>
+<p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
+<p>Designs and layouts are cool but algorithims are cooler.</p>
 
 <h3>
     I'm currently working on:
