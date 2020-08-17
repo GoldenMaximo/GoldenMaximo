@@ -145,7 +145,7 @@
 <a href="https://github.com/GoldenMaximo/Node.js-E-Commerce">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-E-Commerce" />
 </a>
-<p>I'm trying to git gud at <b>NodeJS</b> and backend development to score a fullstack position and advance my carreer to the next level.</p>
+<p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my carreer to the next level.</p>
 
 <br />
 <br />
