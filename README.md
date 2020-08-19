@@ -136,7 +136,7 @@
 </h3>
 
 <p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
-<p>Designs and layouts are cool but algorithims are cooler.</p>
+<p>Designs and layouts are cool but algorithms are cooler.</p>
 
 <h3>
     I'm currently working on:
