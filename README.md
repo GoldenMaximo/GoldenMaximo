@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/demo5.gif" alt="GoldenMaximo" />
+    <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.gif" alt="GoldenMaximo" />
 </p>
 
 <p align="center">
