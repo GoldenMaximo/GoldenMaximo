@@ -145,7 +145,7 @@
     I'm currently working on:
 </h3>
 
-<a href="https://github.com/GoldenMaximo/Node.js-E-Commerce">
+<a href="https://github.com/GoldenMaximo/social-blog-nodejs">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=social-blog-nodejs" />
 </a>
 <p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my carreer to the next level.</p>
