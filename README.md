@@ -140,6 +140,7 @@
 
 <p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
 <p>Designs and layouts are cool but algorithms are cooler.</p>
+<p>And yes, although the stuff I've worked with/delved into might seem like a lot, I'm confident in my proficiency.</p>
 
 <h3>
     I'm currently working on:
@@ -148,7 +149,7 @@
 <a href="https://github.com/GoldenMaximo/social-blog-nodejs">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=social-blog-nodejs" />
 </a>
-<p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my carreer to the next level.</p>
+<p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
 
 <br />
 <br />
