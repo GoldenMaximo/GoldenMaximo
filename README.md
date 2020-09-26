@@ -140,7 +140,6 @@
 
 <p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
 <p>Designs and layouts are cool but algorithms are cooler.</p>
-<p>And yes, although the stuff I've worked with/delved into might seem like a lot, I'm confident in my proficiency.</p>
 
 <h3>
     I'm currently working on:
