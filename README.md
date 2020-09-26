@@ -61,6 +61,9 @@
     <a href="https://angularjs.org/" alt="AngularJS">
         <img src="https://img.shields.io/badge/-AngularJS-black?logo=AngularJS&logoColor=E23237" />
     </a>
+    <a href="https://socket.io/" alt="Socket.IO">
+        <img src="https://img.shields.io/badge/-Socket.IO-black?logo=Socket.IO&logoColor=white" />
+    </a>
     <a href="https://expo.io/" alt="Expo">
         <img src="https://img.shields.io/badge/-Expo-black?logo=Expo" />
     </a>
