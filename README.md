@@ -151,8 +151,8 @@
     I'm currently working on:
 </h3>
 
-<a href="https://github.com/GoldenMaximo/React.js-Blog-Frontend">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=React.js-Blog-Frontend" />
+<a href="https://github.com/GoldenMaximo/Node.js-MongoDB-GraphQL-Blog">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-MongoDB-GraphQL-Blog" />
 </a>
 <p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
 
