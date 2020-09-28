@@ -49,6 +49,9 @@
     <a href="https://nodejs.org/en/" alt="Node.js">
         <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js" />
     </a>
+    <a href="https://graphql.org/" alt="GraphQL">
+        <img src="https://img.shields.io/badge/-GraphQL-black?logo=GraphQL&logoColor=E10098" />
+    </a>
     <a href="https://www.mongodb.com/" alt="MongoDB">
         <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=#47A248" />
     </a>
@@ -145,8 +148,8 @@
     I'm currently working on:
 </h3>
 
-<a href="https://github.com/GoldenMaximo/social-blog-nodejs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=social-blog-nodejs" />
+<a href="https://github.com/GoldenMaximo/Node.js-GraphQL-Blog">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-GraphQL-Blog" />
 </a>
 <p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
 
