@@ -6,11 +6,14 @@
     <a href="mailto:gfmaximo97@gmail.com" alt="Email">
         <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
     </a>
-        <a href="https://github.com/GoldenMaximo/" alt="JS Dev - 3 Years">
+    <a href="https://github.com/GoldenMaximo/" alt="JS Dev - 3 Years">
         <img src="https://img.shields.io/badge/Developer-@3%20Years-yellow?logo=javascript" />
     </a>
+    <a href="https://leetcode.com/goldenmaximo/" target="_blank" alt="LeetCode">
+        <img src="https://img.shields.io/badge/-LeetCode%20Profile-black?logo=LeetCode&logoColor=F89F1B" />
+    </a>
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
-        <img src="https://www.codewars.com/users/GoldenMaximo/badges/micro" />
+        <img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" />
     </a>
     <a href="https://goldenmaximo.github.io/curriculum-vitae/" target="_blank" alt="Curriculum-Vitae">
         <img src="https://img.shields.io/badge/-Curriculum--Vitae-informational" />
@@ -149,7 +152,7 @@
 </h3>
 
 <a href="https://github.com/GoldenMaximo/Node.js-GraphQL-Blog">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-GraphQL-Blog" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.j-GraphQL-Blog" />
 </a>
 <p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
 
