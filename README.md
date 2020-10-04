@@ -67,14 +67,17 @@
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/-React-black?logo=react" />
     </a>
+    <a href="https://reactnative.dev/" alt="React Native">
+        <img src="https://img.shields.io/badge/-React%20Native-black?logo=react" />
+    </a>
+    <a href="https://expo.io/" alt="Expo">
+        <img src="https://img.shields.io/badge/-Expo-black?logo=Expo" />
+    </a>
     <a href="https://angularjs.org/" alt="AngularJS">
         <img src="https://img.shields.io/badge/-AngularJS-black?logo=AngularJS&logoColor=E23237" />
     </a>
     <a href="https://socket.io/" alt="Socket.IO">
         <img src="https://img.shields.io/badge/-Socket.IO-black?logo=Socket.IO&logoColor=white" />
-    </a>
-    <a href="https://expo.io/" alt="Expo">
-        <img src="https://img.shields.io/badge/-Expo-black?logo=Expo" />
     </a>
     <a href="https://jquery.com/" alt="JQuery">
         <img src="https://img.shields.io/badge/-JQuery-black?logo=JQuery&logoColor=0769AD" />
