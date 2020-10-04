@@ -61,6 +61,9 @@
     <a href="https://www.mysql.com/" alt="MySQL">
         <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=blue" />
     </a>
+    <a href="https://jwt.io/" alt="JSON Web Tokens">
+        <img src="https://img.shields.io/badge/-JSON Web Tokens-black?logo=JSON%20Web%20Tokens&logoColor=white" />
+    </a>
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/-React-black?logo=react" />
     </a>
