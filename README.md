@@ -64,6 +64,9 @@
     <a href="https://jwt.io/" alt="JSON Web Tokens">
         <img src="https://img.shields.io/badge/-JSON Web Tokens-black?logo=JSON%20Web%20Tokens&logoColor=white" />
     </a>
+    <a href="https://www.openssl.org/" alt="OpenSSL">
+        <img src="https://img.shields.io/badge/-OpenSSL-black?logo=OpenSSL&logoColor=white" />
+    </a>
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/-React-black?logo=react" />
     </a>
