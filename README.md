@@ -154,16 +154,16 @@
 </h3>
 
 <p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
-<p>Designs and layouts are cool but algorithms are cooler.</p>
+<p>I'm trying to get really good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
 
 <h3>
     I'm currently working on:
 </h3>
 
 <a href="https://github.com/GoldenMaximo/Node.js-MongoDB-GraphQL-Blog">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Node.js-MongoDB-GraphQL-Blog" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=GoldenMaximo-Frontend" />
 </a>
-<p>I'm trying to get good at <b>NodeJS</b> and backend development to score a fullstack position and advance my career to the next level.</p>
+<p>A portfolio is way more eye-catching than GitHub repos and I need a job, so there's that...</p>
 
 <br />
 <br />
