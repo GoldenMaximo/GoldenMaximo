@@ -160,7 +160,7 @@
     I'm currently working on:
 </h3>
 
-<a href="https://github.com/GoldenMaximo/Node.js-MongoDB-GraphQL-Blog">
+<a href="https://github.com/GoldenMaximo/GoldenMaximo-Frontend">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=GoldenMaximo-Frontend" />
 </a>
 <p>A portfolio is way more eye-catching than GitHub repos and I need a job, so there's that...</p>
