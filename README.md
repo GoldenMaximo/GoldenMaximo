@@ -1,6 +1,8 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.gif" alt="GoldenMaximo" />
-</p>
+<a href="https://gustavomaximo.dev/" alt="gustavomaximo.dev">
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.gif" alt="gustavomaximo.dev" />
+    </p>
+</a>
 
 <p align="center">
     <a href="mailto:gfmaximo97@gmail.com" alt="Email">
