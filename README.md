@@ -1,4 +1,4 @@
-<a href="https://gustavomaximo.dev/" alt="gustavomaximo.dev">
+<a href="https://gustavomaximo.dev/" target="_blank" alt="gustavomaximo.dev">
     <p align="center">
         <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.gif" alt="gustavomaximo.dev" />
     </p>
@@ -17,8 +17,8 @@
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
         <img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" />
     </a>
-    <a href="https://goldenmaximo.github.io/curriculum-vitae/" target="_blank" alt="Curriculum-Vitae">
-        <img src="https://img.shields.io/badge/-Curriculum--Vitae-informational" />
+    <a href="gustavomaximo.dev" target="_blank" alt="gustavomaximo.dev">
+        <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
     </a>
     <a href="https://github.com/GoldenMaximo/" alt="Follow me on GitHub">
         <img src="https://img.shields.io/github/followers/GoldenMaximo?label=Follow&style=social" />
