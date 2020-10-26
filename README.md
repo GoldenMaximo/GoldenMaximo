@@ -11,12 +11,6 @@
     <a href="https://github.com/GoldenMaximo/" alt="JS Dev - 3 Years">
         <img src="https://img.shields.io/badge/Developer-@3%20Years-yellow?logo=javascript" />
     </a>
-    <a href="https://leetcode.com/goldenmaximo/" target="_blank" alt="LeetCode">
-        <img src="https://img.shields.io/badge/-LeetCode%20Profile-black?logo=LeetCode&logoColor=F89F1B" />
-    </a>
-    <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
-        <img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" />
-    </a>
     <a href="https://www.gustavomaximo.dev" target="_blank" alt="https://www.gustavomaximo.dev">
         <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
     </a>
