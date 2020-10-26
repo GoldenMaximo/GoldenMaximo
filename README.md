@@ -17,7 +17,7 @@
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
         <img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" />
     </a>
-    <a href="gustavomaximo.dev" target="_blank" alt="gustavomaximo.dev">
+    <a href="https://www.gustavomaximo.dev" target="_blank" alt="https://www.gustavomaximo.dev">
         <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
     </a>
     <a href="https://github.com/GoldenMaximo/" alt="Follow me on GitHub">
