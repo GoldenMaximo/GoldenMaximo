@@ -5,8 +5,8 @@
 </a>
 
 <p align="center">
-    <a href="https://www.gmaximo.dev" target="_blank" alt="https://www.gmaximo.dev">
-        <img src="https://img.shields.io/badge/-gmaximo.dev-black" />
+    <a href="https://gustavomaximo.dev" target="_blank" alt="https://gustavomaximo.dev">
+        <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
     </a>
 </p>
 
