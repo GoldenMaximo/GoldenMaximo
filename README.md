@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://gustavomaximo.dev" target="_blank" alt="https://gustavomaximo.dev">
-        <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
+        <img src="https://img.shields.io/badge/-gustavomaximo.dev-black?style=for-the-badge" />
     </a>
 </p>
 
