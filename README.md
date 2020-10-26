@@ -5,17 +5,8 @@
 </a>
 
 <p align="center">
-    <a href="mailto:gfmaximo97@gmail.com" alt="Email">
-        <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/GoldenMaximo/" alt="JS Dev - 3 Years">
-        <img src="https://img.shields.io/badge/Developer-@3%20Years-yellow?logo=javascript" />
-    </a>
     <a href="https://www.gustavomaximo.dev" target="_blank" alt="https://www.gustavomaximo.dev">
         <img src="https://img.shields.io/badge/-gustavomaximo.dev-black" />
-    </a>
-    <a href="https://github.com/GoldenMaximo/" alt="Follow me on GitHub">
-        <img src="https://img.shields.io/github/followers/GoldenMaximo?label=Follow&style=social" />
     </a>
 </p>
 
