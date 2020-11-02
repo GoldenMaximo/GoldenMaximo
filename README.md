@@ -21,6 +21,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript">
         <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript" />
     </a>
+    <a href="https://www.typescriptlang.org/" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&logoColor=007ACC" />
+    </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS3">
         <img src="https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=1572B6" />
     </a>
@@ -38,6 +41,9 @@
     </a>
     <a href="https://nodejs.org/en/" alt="Node.js">
         <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js" />
+    </a>
+    <a href="https://deno.land/" alt="Deno">
+        <img src="https://img.shields.io/badge/-Deno-black?logo=Deno&logoColor=white" />
     </a>
     <a href="https://graphql.org/" alt="GraphQL">
         <img src="https://img.shields.io/badge/-GraphQL-black?logo=GraphQL&logoColor=E10098" />
@@ -77,6 +83,9 @@
     </a>
     <a href="https://jestjs.io/" alt="Jest">
         <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=C21325" />
+    </a>
+    <a href="https://mochajs.org/" alt="Mocha">
+        <img src="https://img.shields.io/badge/-Mocha-black?logo=Mocha&logoColor=8D6748" />
     </a>
     <a href="https://eslint.org/" alt="ESLint">
         <img src="https://img.shields.io/badge/-ESLint-black?logo=eslint&logoColor=4B32C3" />
