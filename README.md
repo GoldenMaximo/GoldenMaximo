@@ -156,10 +156,10 @@
     I'm currently working on:
 </h3>
 
-<a href="https://github.com/GoldenMaximo/Portfolio-Frontend">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Portfolio-Frontend" />
+<a href="https://github.com/GoldenMaximo/store-framework">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=store-framework" />
 </a>
-<p>A portfolio is way more eye-catching than GitHub repos and I need a job, so there's that...</p>
+<p>VTEX is a monstruous player that holds most of the current market share in it's field. So I'm trying it out to see how/what it is and so far it's pretty weird from a development standpoint, not what I'm used to. But it's surprisingly easy to use and very interesting.</p>
 
 <br />
 <br />
