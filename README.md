@@ -21,7 +21,7 @@
 
 
 <h3 align="center">
-    Main tools of trade
+    Main Tools of Trade
 </h3>
 
 <p align="center">
@@ -54,9 +54,6 @@
     </a>
     <a href="https://www.mongodb.com/" alt="MongoDB">
         <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=#47A248" />
-    </a>
-    <a href="https://www.gimp.org/" alt="GIMP">
-        <img src="https://img.shields.io/badge/-GIMP-black?logo=GIMP&logoColor=5C5543" />
     </a>
 </p>
 
