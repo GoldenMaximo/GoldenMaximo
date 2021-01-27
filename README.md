@@ -65,8 +65,6 @@
 
 <p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
 
-<p>I have the goal of going far and beyond all my peers in the technical level, for that, I commit myself to make at least one git commit on my personal GitHub every single day. I watch tutorials every day. Code every day. Work on personal projects every day. I plan to leap years ahead of what would usually take me years of working a normal job to get there. Simply through perseverance in my studies.</p>
-
 <h3>
     I'm currently working on:
 </h3>
