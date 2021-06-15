@@ -57,30 +57,7 @@
     </a>
 </p>
 
-<hr />
 
-<h3>
-    Howdy partner 🤠
-</h3>
-
-<p>I like to solve difficult problems and flex logic like it's a muscle. No pain no gain.</p>
-
-<h3>
-    I'm currently working on:
-</h3>
-
-<a href="https://github.com/GoldenMaximo/Meals-App">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenMaximo&repo=Meals-App" />
-</a>
-<p>A cool React Native app that I'm developing to further improve my skills.</p>
-
-<br />
-<br />
-<br />
-<h3>
-    Some interesting GitHub stats about me:
-</h3>
-
-🔧✔️ | 🏆 JS
+Procrastinating ✔️ | 🏆 JS
 ------------ | -------------
 [![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact)](https://github.com/GoldenMaximo/github-readme-stats)
