@@ -21,24 +21,15 @@
 
 
 <h3 align="center">
-    Main Tools of Trade
+    Stuff I'm most confortable with if I have to parachute down on projects:
 </h3>
 
 <p align="center">
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/-React-black?logo=react" />
     </a>
-    <a href="https://reactnative.dev/" alt="React Native">
-        <img src="https://img.shields.io/badge/-React%20Native-black?logo=react" />
-    </a>
     <a href="https://redux.js.org/" alt="Redux">
         <img src="https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=764ABC" />
-    </a>
-    <a href="https://styled-components.com/" alt="styled-components">
-        <img src="https://img.shields.io/badge/-Styled%20Components-black?logo=styled-components&logoColor=DB7093" />
-    </a>
-    <a href="https://eslint.org/" alt="ESLint">
-        <img src="https://img.shields.io/badge/-ESLint-black?logo=eslint&logoColor=4B32C3" />
     </a>
     <a href="https://jestjs.io/" alt="Jest">
         <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=C21325" />
@@ -46,11 +37,14 @@
     <a href="https://nodejs.org/en/" alt="Node.js">
         <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js" />
     </a>
+    <a href="https://expressjs.com/" alt="Express.js">
+        <img src="https://img.shields.io/badge/-Express.js-black?logo=express" />
+    </a>
     <a href="https://mochajs.org/" alt="Mocha">
         <img src="https://img.shields.io/badge/-Mocha-black?logo=Mocha&logoColor=8D6748" />
     </a>
-    <a href="https://graphql.org/" alt="GraphQL">
-        <img src="https://img.shields.io/badge/-GraphQL-black?logo=GraphQL&logoColor=E10098" />
+    <a href="https://www.chaijs.com/" alt="Chai">
+        <img src="https://img.shields.io/badge/-Chai-black?logo=Chai&logoColor=A30701" />
     </a>
     <a href="https://www.mongodb.com/" alt="MongoDB">
         <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=#47A248" />
