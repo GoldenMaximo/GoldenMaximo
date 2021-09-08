@@ -1,9 +1,3 @@
-<a href="https://gustavomaximo.dev/" target="_blank" alt="gustavomaximo.dev">
-    <p align="center">
-        <img src="https://raw.githubusercontent.com/GoldenMaximo/GoldenMaximo/master/public/banner.gif" alt="gustavomaximo.dev" />
-    </p>
-</a>
-
 <p align="center">
     <a href="https://gustavomaximo.dev" target="_blank" alt="https://gustavomaximo.dev">
         <img src="https://img.shields.io/badge/-gustavomaximo.dev-black?style=for-the-badge" />
@@ -54,4 +48,4 @@
 
 Procrastinating ✔️ | 🏆 JS
 ------------ | -------------
-[![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact)](https://github.com/GoldenMaximo/github-readme-stats)
+[![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo&theme=ayu-mirage&show_icons=true)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact&theme=ayu-mirage)](https://github.com/GoldenMaximo/github-readme-stats)
