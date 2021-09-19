@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+    <a href="https://stackoverflow.com/users/10088643/gustavo-maximo" target="_blank" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow%20Profile-black?logo=stackoverflow&logoColor=F58025" />
+    </a>
     <a href="https://leetcode.com/goldenmaximo/" target="_blank" alt="LeetCode">
         <img src="https://img.shields.io/badge/-LeetCode%20Profile-black?logo=LeetCode&logoColor=F89F1B" />
     </a>
@@ -54,6 +57,13 @@
     </a>
 </p>
 
+<h3 align="center">
+    My last app & article: <a href="https://materializadora.es/2021/09/01/entrepreneur-support-a-helpdesk-system-for-tech-consulting-2/">Entrepreneur Support – A Helpdesk System for Tech Consulting</a>
+</h3>
+</br>
+<div align="center"><img src="https://i.ibb.co/g9TQCjH/demo.png" /></div>
+</br>
+<div align="center"><h2><a href="https://steamcommunity.com/id/MaximoMLG/">I'm a hardcore Resident Evil fan.</a></h2></div>
 
 Procrastinating ✔️ | 🏋️ TS & JS 🏆
 ------------ | -------------
