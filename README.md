@@ -19,14 +19,26 @@
 </h3>
 
 <p align="center">
+    <a href="https://www.typescriptlang.org/" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript" />
+    </a>
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/-React-black?logo=react" />
+    </a>
+    <a href="https://nextjs.org/" alt="Next.js">
+        <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=#ffffff" />
     </a>
     <a href="https://redux.js.org/" alt="Redux">
         <img src="https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=764ABC" />
     </a>
+    <a href="https://styled-components.com/" alt="Styled-Components">
+        <img src="https://img.shields.io/badge/-Styled&#8722;Components-black?logo=styledcomponents" />
+    </a>
     <a href="https://jestjs.io/" alt="Jest">
         <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=C21325" />
+    </a>
+    <a href="https://www.chaijs.com/" alt="Chai">
+        <img src="https://img.shields.io/badge/-Chai-black?logo=Chai&logoColor=A30701" />
     </a>
     <a href="https://nodejs.org/en/" alt="Node.js">
         <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js" />
@@ -34,11 +46,8 @@
     <a href="https://expressjs.com/" alt="Express.js">
         <img src="https://img.shields.io/badge/-Express.js-black?logo=express" />
     </a>
-    <a href="https://mochajs.org/" alt="Mocha">
-        <img src="https://img.shields.io/badge/-Mocha-black?logo=Mocha&logoColor=8D6748" />
-    </a>
-    <a href="https://www.chaijs.com/" alt="Chai">
-        <img src="https://img.shields.io/badge/-Chai-black?logo=Chai&logoColor=A30701" />
+    <a href="https://socket.io/" alt="Socket.IO">
+        <img src="https://img.shields.io/badge/-Socket.IO-black?logo=socket.io" />
     </a>
     <a href="https://www.mongodb.com/" alt="MongoDB">
         <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=#47A248" />
@@ -46,6 +55,6 @@
 </p>
 
 
-Procrastinating ✔️ | 🏆 JS
+Procrastinating ✔️ | 🏋️ TS & JS 🏆
 ------------ | -------------
 [![GoldenMaximo's github stats](https://github-readme-stats.vercel.app/api?username=GoldenMaximo&theme=ayu-mirage&show_icons=true)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMaximo&layout=compact&theme=ayu-mirage)](https://github.com/GoldenMaximo/github-readme-stats)
