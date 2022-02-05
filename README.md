@@ -6,19 +6,16 @@
 
 <p align="center">
     <a href="https://stackoverflow.com/users/10088643/gustavo-maximo" target="_blank" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow%20Profile-black?logo=stackoverflow&logoColor=F58025" />
-    </a>
-    <a href="https://leetcode.com/goldenmaximo/" target="_blank" alt="LeetCode">
-        <img src="https://img.shields.io/badge/-LeetCode%20Profile-black?logo=LeetCode&logoColor=F89F1B" />
+        <img src="https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&logoColor=F58025" />
     </a>
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
-        <img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" />
+        <img src="https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=AD2C27" />
     </a>
 </p>
 
 
 <h3 align="center">
-    Stuff I'm most confortable with if I have to parachute down on projects:
+    Stuff I've messed around with and enjoy using the most:
 </h3>
 
 <p align="center">
@@ -31,14 +28,20 @@
     <a href="https://nextjs.org/" alt="Next.js">
         <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=#ffffff" />
     </a>
-    <a href="https://redux.js.org/" alt="Redux">
-        <img src="https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=764ABC" />
+    <a href="https://redux-toolkit.js.org/" alt="Redux Toolkit">
+        <img src="https://img.shields.io/badge/-Redux%20Toolkit-black?logo=redux&logoColor=764ABC" />
+    </a>
+    <a href="https://redux-toolkit.js.org/rtk-query/overview" alt="RTK Query">
+        <img src="https://img.shields.io/badge/-RTK%20Query-black?logo=redux&logoColor=764ABC" />
     </a>
     <a href="https://styled-components.com/" alt="Styled-Components">
         <img src="https://img.shields.io/badge/-Styled&#8722;Components-black?logo=styledcomponents" />
     </a>
     <a href="https://jestjs.io/" alt="Jest">
         <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=C21325" />
+    </a>
+    <a href="https://enzymejs.github.io/enzyme/" alt="Enzyme">
+        <img src="https://img.shields.io/badge/-Enzyme-black?logo=airbnb&logoColor=FF5A5F" />
     </a>
     <a href="https://www.chaijs.com/" alt="Chai">
         <img src="https://img.shields.io/badge/-Chai-black?logo=Chai&logoColor=A30701" />
@@ -57,13 +60,12 @@
     </a>
 </p>
 
-<h3 align="center">
-    My last app & article: <a href="https://materializadora.es/2021/10/21/entrepreneur-support-a-helpdesk-system-for-tech-consulting/">Entrepreneur Support – A Helpdesk System for Tech Consulting</a>
-</h3>
-</br>
-<div align="center"><img src="https://i.ibb.co/g9TQCjH/demo.png" /></div>
-</br>
-<div align="center"><h2><a href="https://steamcommunity.com/id/MaximoMLG/">I'm a hardcore Resident Evil fan.</a></h2></div>
+<br/>
+<p>
+    Boring simplistic article I made a while ago about an MVP I made: <a href="https://materializadora.es/2021/10/21/entrepreneur-support-a-helpdesk-system-for-tech-consulting/">Entrepreneur Support – A Helpdesk System for Tech Consulting</a>
+</p>
+<p>I like astronomy, Resident Evil, lifting and coding. I despise LinkedIn and I think FAANG companies are the devil but I like them for giving us cool tech to work with. Thanks Lord Zucc.</p>
+<br/>
 
 Procrastinating ✔️ | 🏋️ TS & JS 🏆
 ------------ | -------------
