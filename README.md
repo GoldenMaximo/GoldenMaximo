@@ -64,7 +64,7 @@
 <p>
     Boring simplistic article I made a while ago about an MVP I made: <a href="https://materializadora.es/2021/10/21/entrepreneur-support-a-helpdesk-system-for-tech-consulting/">Entrepreneur Support – A Helpdesk System for Tech Consulting</a>
 </p>
-<p>I like astronomy, Resident Evil, lifting and coding. I despise LinkedIn and I think FAANG companies are the devil but I like them for giving us cool tech to work with. Thanks Lord Zucc.</p>
+<p>I like astronomy, Resident Evil, lifting and coding. I despise LinkedIn and I think Big Tech companies are the devil but I like them for giving us cool tech to work with. Thanks Lord Zucc.</p>
 <br/>
 
 Procrastinating ✔️ | 🏋️ TS & JS 🏆
