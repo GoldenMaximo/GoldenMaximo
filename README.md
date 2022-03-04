@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://stackoverflow.com/users/10088643/gustavo-maximo" target="_blank" alt="StackOverflow">
+    <a href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity" target="_blank" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&logoColor=F58025" />
     </a>
     <a href="https://www.codewars.com/users/GoldenMaximo/completed" target="_blank" alt="CodeWars">
