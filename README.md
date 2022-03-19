@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript" />
     </a>
     <a href="https://reactjs.org/" alt="React">
-        <img src="https://img.shields.io/badge/-React-black?logo=react" />
+        <img src="https://img.shields.io/badge/-React%20w/%20Hooks-black?logo=react" />
     </a>
     <a href="https://nextjs.org/" alt="Next.js">
         <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=#ffffff" />
