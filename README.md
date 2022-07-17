@@ -179,4 +179,3 @@
   think Big Tech companies are the devil but I like them for giving us cool tech
   to work with. Thanks Lord Zucc.
 </p>
-<br />
