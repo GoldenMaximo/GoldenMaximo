@@ -170,17 +170,17 @@
   <tr>
     <th>
       <div>
-        <img src="./public/1.jpg" width="200px" />
+        <img src="./public/1.jpg" width="236px" />
       </div>
     </th>
     <th>
       <div>
-        <img src="./public/2.jpg" width="200px" />
+        <img src="./public/2.jpg" width="236px" />
       </div>
     </th>
     <th>
       <div>
-        <img src="./public/3.jpg" width="200px" />
+        <img src="./public/3.jpg" width="236px" />
       </div>
     </th>
   </tr>
