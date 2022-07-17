@@ -10,56 +10,26 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <th>
-      <a
-        href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
-        target="_blank"
-        alt="StackOverflow"
-      >
-        <img
-          src="https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&logoColor=F58025"
-        />
-      </a>
-    </th>
-    <th>
-      <a
-        href="https://www.codewars.com/users/GoldenMaximo/completed"
-        target="_blank"
-        alt="CodeWars"
-      >
-        <img
-          src="https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=AD2C27"
-        />
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/10088643/gustavo-maximo"
-        ><img
-          src="https://stackoverflow.com/users/flair/10088643.png?theme=dark"
-          width="208"
-          height="58"
-          alt="profile for Gustavo Maximo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-          title="profile for Gustavo Maximo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-      /></a>
-    </td>
-    <td>
-      <a href="https://www.codewars.com/users/GoldenMaximo/completed"
-        ><img
-          src="https://www.codewars.com/users/GoldenMaximo/badges/micro"
-          width="208"
-          height="58"
-          alt="GoldenMaximo's CodeWars badge"
-          title="GoldenMaximo's CodeWars badge"
-      /></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"></p>
+<p align="center">
+  <a
+    href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
+    target="_blank"
+    alt="StackOverflow"
+  >
+    <img
+      src="https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&logoColor=F58025"
+    />
+  </a>
+  <a
+    href="https://www.codewars.com/users/GoldenMaximo/completed"
+    target="_blank"
+    alt="CodeWars"
+  >
+    <img
+      src="https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=AD2C27"
+    />
+  </a>
+</p>
 
 <h3 align="center">Stuff I've messed around with and enjoy using the most:</h3>
 
