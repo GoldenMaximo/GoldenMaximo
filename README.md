@@ -166,26 +166,6 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <th>
-      <div>
-        <img src="./public/1.jpg" width="236px" />
-      </div>
-    </th>
-    <th>
-      <div>
-        <img src="./public/2.jpg" width="236px" />
-      </div>
-    </th>
-    <th>
-      <div>
-        <img src="./public/3.jpg" width="236px" />
-      </div>
-    </th>
-  </tr>
-</table>
-
 <br />
 <p>
   Boring simplistic article I made a while ago about an MVP I made:
