@@ -17,7 +17,7 @@
     alt="StackOverflow Profile"
   >
     <img
-      src="https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&logoColor=F58025"
+      src="https://img.shields.io/badge/-StackOverflow%20Profile-black?logo=stackoverflow&logoColor=F58025"
     />
   </a>
   <a
@@ -26,7 +26,7 @@
     alt="CodeWars Profile"
   >
     <img
-      src="https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=AD2C27"
+      src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27"
     />
   </a>
 </p>
@@ -166,6 +166,40 @@
   </tr>
 </table>
 
+<h3 align="center">My all time PRs:</h3>
+
+<table align="center">
+  <tr>
+    <th>
+      Flat Bench Press
+    </th>
+    <th>
+      Squat
+    </th>
+    <th>
+      Deadlift
+    </th>
+    <th>
+      Overhead Press
+    </th>
+  </tr>
+  <tr>
+    <td>
+      100kg x 2
+    </td>
+    <td>
+      60kg x 2 (I got a knee injury)
+    </td>
+    <td>
+      140kg x 2
+    </td>
+    <td>
+      50kg x 1
+    </td>
+  </tr>
+  </table>
+  
+  
 <br />
 <p>
   Boring simplistic article I made a while ago about an MVP I made:
