@@ -205,11 +205,7 @@
   </tr>
   </table>
   
-<p>Morning weight:</p>
-<p>78kg @ 1,80cm</p>
-
-<p>Routine:</p>
-<p>CBum Push/Pull/Legs</p>
+<p>Morning weight: 78kg @ 1,80cm // Routine: CBum Push/Pull/Legs</p>
   
 <br />
 <p>
