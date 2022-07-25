@@ -182,6 +182,9 @@
     <th>
       Overhead Press
     </th>
+    <th>
+    Running Distance
+    </th>
   </tr>
   <tr>
     <td>
@@ -191,14 +194,22 @@
       60kg x 2 (I got a knee injury)
     </td>
     <td>
-      140kg x 2
+      140kg x 1
     </td>
     <td>
       50kg x 1
     </td>
+    <td>
+    2km @ 12km/h / 10 min
+    </td>
   </tr>
   </table>
   
+<p>Morning weight:</p>
+<p>78kg @ 1,80cm</p>
+
+<p>Routine:</p>
+<p>CBum Push/Pull/Legs</p>
   
 <br />
 <p>
