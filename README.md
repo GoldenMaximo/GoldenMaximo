@@ -191,7 +191,7 @@
       100kg x 2
     </td>
     <td>
-      60kg x 2 (I got a knee injury)
+      60kg x 2 (hindered by knee injury)
     </td>
     <td>
       140kg x 1
