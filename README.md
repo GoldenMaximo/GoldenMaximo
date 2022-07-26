@@ -166,47 +166,6 @@
   </tr>
 </table>
 
-<h3 align="center">My all time PRs:</h3>
-
-<table align="center">
-  <tr>
-    <th>
-      Flat Bench Press
-    </th>
-    <th>
-      Squat
-    </th>
-    <th>
-      Deadlift
-    </th>
-    <th>
-      Overhead Press
-    </th>
-    <th>
-    Running Distance
-    </th>
-  </tr>
-  <tr>
-    <td>
-      100kg x 2
-    </td>
-    <td>
-      60kg x 2 (hindered by knee injury)
-    </td>
-    <td>
-      140kg x 1
-    </td>
-    <td>
-      50kg x 1
-    </td>
-    <td>
-    2km @ 12km/h / 10 min
-    </td>
-  </tr>
-  </table>
-  
-<p>Morning weight: 78kg @ 1,80cm // Routine: CBum Push/Pull/Legs</p>
-  
 <br />
 <p>
   Boring simplistic article I made a while ago about an MVP I made:
