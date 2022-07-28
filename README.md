@@ -168,7 +168,7 @@
 
 <br />
 <p>
-  Boring simplistic article I made a while ago about an MVP I made:
+  A while ago I made one of those Medium-style boring articles that no one reads:
   <a
     href="https://materializadora.es/2021/10/21/entrepreneur-support-a-helpdesk-system-for-tech-consulting/"
     >Entrepreneur Support – A Helpdesk System for Tech Consulting</a
