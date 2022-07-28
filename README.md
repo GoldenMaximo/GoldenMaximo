@@ -171,7 +171,7 @@
   A while ago I made a boring article about something I was proud of:
   <a
     href="https://materializadora.es/2021/10/21/entrepreneur-support-a-helpdesk-system-for-tech-consulting/"
-    >Entrepreneur Support – A Helpdesk System for Tech Consulting</a
+    >Entrepreneur Support – A Helpdesk System for Tech Consulting.</a
   >
 </p>
 <p>
