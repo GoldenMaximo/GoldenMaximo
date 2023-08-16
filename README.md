@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">Stuff I've messed around with the most and am most accustomed to:</h3>
+<h3 align="center">Stuff I'm most accustomed to ATM:</h3>
 
 <table align="center">
   <tr>
