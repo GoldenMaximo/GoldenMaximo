@@ -199,6 +199,10 @@
   </tr>
 </table>
 
+Work contribution map
+<img width="925" height="223" alt="image" src="https://github.com/user-attachments/assets/71ad31dc-48c8-4e31-b481-1f87b5b68b92" />
+
+
 <br />
 <p>
   A while ago, I made a boring article about something I was proud of:
