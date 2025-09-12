@@ -52,7 +52,7 @@
     <th>
       <a href="https://mui.com/" alt="MUI">
         <img
-          src="https://img.shields.io/badge/-MUI-black?logo=mui&logoColor=#007FFF"
+          src="https://img.shields.io/badge/-MUI-black?logo=mui&logoColor=007FFF"
         />
       </a>
     </th>
@@ -68,14 +68,14 @@
     <th>
       <a href="https://redux-toolkit.js.org/" alt="Redux Toolkit">
         <img
-          src="https://img.shields.io/badge/-Redux%20Toolkit-black?logo=redux&logoColor=764ABC"
+          src="https://img.shields.io/badge/-Redux%20Toolkit-black?logo=redux&logoColor=311C87"
         />
       </a>
     </th>
         <th>
       <a href="https://www.apollographql.com/" alt="Apollo GraphQL">
         <img
-          src="https://img.shields.io/badge/-Apollo GraphQL-black?logo=Apollo GraphQL&logoColor=311C87"
+          src="https://img.shields.io/badge/-apollographql-black?logo=apollographql&logoColor=311C87"
         />
       </a>
     </th>
