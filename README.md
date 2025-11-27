@@ -1,4 +1,4 @@
-Howdy there, partner. 
+## Howdy there, partner. 
 
 I'm a software engineer. TS, React, Node, etc.
 
@@ -14,7 +14,7 @@ typeof pupper  // Returns doggo
 <!---
 [ [1](https://how-i-code-frontend.vercel.app/en/starships), 2 ]
 --->
-<table border="16px">
+<table border="12px">
   <tr>
     <th><a
     href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
