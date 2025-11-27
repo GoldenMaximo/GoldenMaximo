@@ -1,14 +1,15 @@
 ## Howdy there, partner. 
 
-I'm a software engineer. TS, React, Node, etc.
+I'm a software engineer. TS, React, Node, Next.js, that sorta of thing.
 
 8 years I've been through these parts. Learned a lot, seen a lot.
 
 I can bench 225lbs/100kg. I have S+ speedruns in Resident Evil.
-I like doing mainly gardening and shooting, and stuff. My fiancée is a beautiful vet; we have lil doggy doggers
+I like doing mainly gardening and shooting and stuff. My fiancée is a beautiful vet; we have lil doggy doggers
 ```js
 typeof pupper  // Returns doggo
 ```
+I ride them big puppers too, "equines"; my fiancée calls them
 
 <br>
 <!---
