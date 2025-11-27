@@ -14,7 +14,7 @@ typeof pupper  // Returns doggo
 <!---
 [ [1](https://how-i-code-frontend.vercel.app/en/starships), 2 ]
 --->
-<table border="12px">
+<table border="6px">
   <tr>
     <th><a
     href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
