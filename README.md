@@ -9,7 +9,6 @@ I like doing mainly gardening and shooting and stuff. My fiancée is a beautiful
 ```js
 typeof pupper  // Returns doggo
 ```
-I ride them big puppers too, "equines"; my fiancée calls them
 
 <br>
 <!---
