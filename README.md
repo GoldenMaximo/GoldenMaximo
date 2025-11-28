@@ -1,11 +1,11 @@
 ## Howdy there, partner. 
 
-I'm a software engineer. TS, React, Node, Next.js, that sorta of thing.
+I'm a software engineer.  
+TS, React, Node, Next.js, etc.
 
-8 years I've been through these parts. Learned a lot, seen a lot.
-
-I can bench 225lbs/100kg. I have S+ speedruns in Resident Evil.
-I like doing mainly gardening and shooting and stuff. My fiancée is a beautiful vet; we have lil doggy doggers
+OHP 1RM 68kg, I have S+ speedruns in Resident Evil. 7 medals and 3 throphies in sports shooting.  
+Gardening enthusiast. Nature enjoyer.  
+My fiancée is a beautiful vet; we have lil doggy doggers.
 ```js
 typeof pupper  // Returns doggo
 ```
@@ -14,7 +14,7 @@ typeof pupper  // Returns doggo
 <!---
 [ [1](https://how-i-code-frontend.vercel.app/en/starships), 2 ]
 --->
-<table border="6px">
+<table border="8px">
   <tr>
     <th><a
     href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
