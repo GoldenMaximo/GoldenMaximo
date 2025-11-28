@@ -1,7 +1,7 @@
 ## Howdy there, partner. 
 
 I'm a software engineer.  
-TS, React, Node, Next.js, etc.
+TS, React, Node, Next, etc.
 
 OHP 1RM 68kg, I have S+ speedruns in Resident Evil. 7 medals and 3 throphies in sports shooting.  
 Gardening enthusiast. Nature enjoyer.  
