@@ -1,4 +1,4 @@
-## Howdy there, partner. 
+## Howdy there, partner
 
 I'm a software engineer.  
 TS, React, Node, Next, etc.
@@ -7,8 +7,6 @@ OHP 1RM 68kg. S+ speedruns in Resident Evil. 7 medals and 3 trophies in sports s
 Gardening enthusiast. Nature enjoyer. P320 skeptic.
 Engaged to a beautiful vet. Addicted to LLMs.
 
-
-<img src="https://i.sstatic.net/b5C5l.gif" />
 <br>
 <a
     href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
