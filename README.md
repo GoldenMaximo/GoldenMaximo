@@ -19,3 +19,8 @@ Engaged to a beautiful vet. Addicted to LLMs.
     target="_blank"
     alt="CodeWars Profile."
   ><img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" /></a>
+    &nbsp;&nbsp;&nbsp;
+<a href="https://how-i-code-frontend.vercel.app/"
+    target="_blank"
+    alt="Latest Project."
+  ><img src="https://img.shields.io/badge/-Latest%20Project-black?logo=vercel&logoColor=#000000" /></a>
