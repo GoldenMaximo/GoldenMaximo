@@ -3,9 +3,9 @@
 I'm a software engineer.  
 TS, React, Node, Next, etc.
 
-OHP 1RM 68kg. S+ speedruns in Resident Evil. 7 medals and 3 trophies in sports shooting.  
-Gardening enthusiast. Nature enjoyer. P320 skeptic.
-Engaged to a beautiful vet. Addicted to LLMs.
+OHP 1RM 68kg. &nbsp; S+ speedruns in Resident Evil. &nbsp; 7 medals and 3 trophies in sports shooting.  
+Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp;
+Engaged to a beautiful vet. &nbsp; Addicted to LLMs.
 
 <br>
 <a
