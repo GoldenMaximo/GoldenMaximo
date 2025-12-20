@@ -1,9 +1,6 @@
 ## Howdy there, partner
 
-I'm a software engineer.  
-TS, React, Node, Next, etc.
-
-OHP 1RM 68kg. &nbsp; S+ speedruns in Resident Evil. &nbsp; 7 medals and 3 trophies in sports shooting.  
+OHP (Strict, without leg drive) 1RM 68kg. &nbsp; S+ speedruns in Resident Evil. &nbsp; 7 medals and 3 trophies in sports shooting.  
 Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp;
 Engaged to a beautiful vet. &nbsp; Addicted to LLMs.
 
@@ -20,7 +17,3 @@ Engaged to a beautiful vet. &nbsp; Addicted to LLMs.
     alt="CodeWars Profile."
   ><img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" /></a>
     &nbsp;&nbsp;&nbsp;
-<a href="https://how-i-code-frontend.vercel.app/"
-    target="_blank"
-    alt="Latest Project."
-  ><img src="https://img.shields.io/badge/-Latest%20Project-black?logo=vercel&logoColor=#000000" /></a>
