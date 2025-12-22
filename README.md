@@ -9,11 +9,11 @@ Engaged to a beautiful vet. &nbsp; Addicted to LLMs.
     href="https://stackoverflow.com/users/10088643/gustavo-maximo?tab=topactivity"
     target="_blank"
     alt="StackOverflow Profile."
-  ><img src="https://img.shields.io/badge/-StackOverflow%20Profile-black?logo=stackoverflow&logoColor=F58025" /></a>
+  ><img src="https://img.shields.io/badge/-StackOverflow%20Profile-222?logo=stackoverflow&logoColor=F58025" /></a>
   &nbsp;&nbsp;&nbsp;
 <a
     href="https://www.codewars.com/users/GoldenMaximo/completed"
     target="_blank"
     alt="CodeWars Profile."
-  ><img src="https://img.shields.io/badge/-CodeWars%20Profile-black?logo=CodeWars&logoColor=AD2C27" /></a>
+  ><img src="https://img.shields.io/badge/-CodeWars%20Profile-222?logo=CodeWars&logoColor=AD2C27" /></a>
     &nbsp;&nbsp;&nbsp;
