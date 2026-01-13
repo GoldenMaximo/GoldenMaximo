@@ -18,5 +18,5 @@ Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp; Family man.
     &nbsp;&nbsp;&nbsp;
 <a href="https://how-i-code-frontend.vercel.app/"
     target="_blank"
-    alt="Latest Project."
-  ><img src="https://img.shields.io/badge/-Latest%20fun%20lil%20project-222?logo=vercel&logoColor=#000000" /></a>
+    alt="Latest Demo/Showcase Project."
+  ><img src="https://img.shields.io/badge/-Latest%20Demo/Showcase%20%20Project-222?logo=vercel&logoColor=#000000" /></a>
