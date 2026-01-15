@@ -16,7 +16,12 @@ Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp; Family man.
     alt="CodeWars Profile."
   ><img src="https://img.shields.io/badge/-CodeWars%20Profile-222?logo=CodeWars&logoColor=AD2C27" /></a>
     &nbsp;&nbsp;&nbsp;
-<a href="https://how-i-code-frontend.vercel.app/"
+<a href="https://starship-registry.vercel.app/"
     target="_blank"
-    alt="Latest Demo/Showcase Project."
-  ><img src="https://img.shields.io/badge/-Latest%20Demo/Showcase%20%20Project-222?logo=vercel&logoColor=#000000" /></a>
+    alt="Demo/Showcase Project."
+  ><img src="https://img.shields.io/badge/-Demo/Showcase%20%20Project-222?logo=vercel&logoColor=#000000" /></a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://wireframe-spheres.vercel.app/"
+    target="_blank"
+    alt="Another cool project."
+  ><img src="https://img.shields.io/badge/-Another%20cool%20project-222?logo=vercel&logoColor=#000000" /></a>
