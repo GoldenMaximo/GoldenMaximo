@@ -11,12 +11,12 @@ Latest Projects:
     href="https://starship-registry.vercel.app/"
     target="_blank"
     alt="Starship Registry."
-  ><img src="https://img.shields.io/badge/-🛰️%20Starship%20Registry-222" /></a>
+  ><img src="https://img.shields.io/badge/-🛸‎ ‎ %20Starship%20Registry-222" /></a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://wireframe-spheres.vercel.app/"
     target="_blank"
     alt="Another cool project."
-  ><img src="https://img.shields.io/badge/-🌐%20Wireframe%20Spheres-222" /></a>
+  ><img src="https://img.shields.io/badge/-🌐‎ ‎ %20Wireframe%20Spheres-222" /></a>
 <br>
 <br>
 Socials:
