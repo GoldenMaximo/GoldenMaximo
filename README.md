@@ -1,7 +1,11 @@
 ## Howdy there, partner
 
-Bench Press PR: 4x100kg, OHP (Strict, without leg drive) 1RM 68kg. &nbsp; S+ speedruns in Resident Evil. &nbsp; 7 medals and 3 trophies in sports shooting.  
-Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp; Family man.
+70kg strict OHP, 160kg deadlift, 100kg ATG Squat, 110kg Bench, 58kg strict curl @ 83kg bodyweight, 18% bf. &nbsp; S+ speedruns in Resident Evil. &nbsp; 7 medals and 3 trophies in sports shooting (mainly pistol precision/bullseye w/ 9mm).  
+Gardening enthusiast. &nbsp; Nature enjoyer. &nbsp; Family man. &nbsp;
+
+<br>
+
+Ted Kaczynski was right. &nbsp; 
 
 <br>
 Latest Projects:
