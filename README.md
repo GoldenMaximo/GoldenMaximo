@@ -2,18 +2,41 @@
 Latest Projects (2026):
 <br>
 <br>
+<a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb"
+    target="_blank"
+    alt="Page to JSON browser extension"
+  ><img src="https://img.shields.io/badge/-{%20} ‎ %20Page%20to%20JSON-222" /></a>
+  <br/>
+  An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party.
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 <a
     href="https://starship-registry.vercel.app/"
     target="_blank"
     alt="Starship Registry."
   ><img src="https://img.shields.io/badge/-🛸‎ ‎ %20Starship%20Registry-222" /></a>
-  &nbsp;&nbsp;&nbsp;
+  <br/>
+  Heavy animations with peak front-end metrics? Maxed out Lighthouse and SonarQube scores? I wish vibe coding could do this.
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 <a href="https://wireframe-spheres.vercel.app/"
     target="_blank"
     alt="Another cool project."
   ><img src="https://img.shields.io/badge/-🌐‎ ‎ %20Wireframe%20Spheres-222" /></a>
-<br>
-<br>
+  <br/>
+  Balls. Or rather, spheres.
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+---
+
+<br/>
 Socials:
 <br>
 <br>
