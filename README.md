@@ -36,9 +36,7 @@ Latest Projects (2026):
 
 ---
 
-<br/>
-Socials:
-<br>
+
 <br>
 <a
     href="https://www.linkedin.com/in/gustavo-maximo-filho/"
