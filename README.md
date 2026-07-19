@@ -18,7 +18,7 @@ Latest Projects (2026):
     alt="Starship Registry."
   ><img src="https://img.shields.io/badge/-🛸‎ ‎ %20Starship%20Registry-222" /></a>
   <br/>
-  Heavy animations with peak front-end metrics? Maxed out Lighthouse and SonarQube scores? I wish vibe coding could do this.
+  Heavy animations with peak front-end metrics. Maxed out Lighthouse and SonarQube scores.
   <br/>
   <br/>
   <br/>
