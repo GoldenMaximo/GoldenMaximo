@@ -1,7 +1,7 @@
 <br>
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;">Latest Projects (2026):</td>
+    <td>Latest Projects (2026):</td>
   </tr>
 </table>
 <br>
@@ -9,9 +9,9 @@
   An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party.
 <br>
   <br/>
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;"><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb"
+    <td><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb"
     target="_blank"
     alt="Page to JSON browser extension"
   >
@@ -52,9 +52,9 @@
     Customizable Spheres with Physics
   <br/>
     <br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table>
   <tr>
-    <td style="border: none;"><a
+    <td><a
     href="https://wireframe-spheres.vercel.app/"
     target="_blank"
     alt="Wireframe Spheres"
