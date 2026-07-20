@@ -28,11 +28,6 @@
       </td>
   </tr>
 </table>
-
-  <br/>
-
-  <br/>
-  <br/>
   <br/>
   <br/>
   <h2>Starship Registry</h2>
@@ -52,8 +47,6 @@
   </tr>
   </table>
 </a>
-  <br/>
-  <br/>
   <br/>
   <br/>
     <h2>Wireframe Spheres</h2>
