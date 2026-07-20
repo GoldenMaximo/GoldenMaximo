@@ -55,7 +55,7 @@
   <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><a
-    href="[https://starship-registry.vercel.app/](https://wireframe-spheres.vercel.app/)"
+    href="https://wireframe-spheres.vercel.app/"
     target="_blank"
     alt="Wireframe Spheres"
   >
