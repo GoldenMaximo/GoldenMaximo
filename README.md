@@ -55,9 +55,9 @@
   <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><a
-    href="https://starship-registry.vercel.app/"
+    href="[https://starship-registry.vercel.app/](https://wireframe-spheres.vercel.app/)"
     target="_blank"
-    alt="Starship Registry"
+    alt="Wireframe Spheres"
   >
 <img width="498" height="252" alt="Adobe Express - Screen Recording 2026-07-20 at 01 22 57" src="https://github.com/user-attachments/assets/0c08560d-3e60-4a25-b237-b0cf6926161a" />
           </a>
