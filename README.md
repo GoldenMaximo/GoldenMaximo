@@ -5,7 +5,6 @@
   </tr>
 </table>
 <br>
-<br>
 <h2>Page to JSON</h2>
   An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party.
 <br>
