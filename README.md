@@ -6,7 +6,7 @@
 </table>
 <br>
 <h2>Page to JSON</h2>
-  An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party.
+  An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party. Available on the <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank">Chrome Web Store</a>.
 <br>
   <br/>
 <table>
