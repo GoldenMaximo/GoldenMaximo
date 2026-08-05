@@ -42,10 +42,6 @@
 
 <br/>
 <br/>
-
----
-
-<br>
 <a
     href="https://www.linkedin.com/in/gustavo-maximo-filho/"
     target="_blank"
