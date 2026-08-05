@@ -5,73 +5,45 @@
   </tr>
 </table>
 <br>
-<h2>Page to JSON</h2>
-  An extension that exports the data of the page you're actively viewing into structured JSON, on demand — processed entirely on your device, never sent to the developer or any third party. Available on the <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank">Chrome Web Store</a>.
-<br>
-  <br/>
+
 <table>
   <tr>
-    <td><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb"
-    target="_blank"
-    alt="Page to JSON browser extension"
-  >
-<img width="342" height="141" alt="image" src="https://github.com/user-attachments/assets/903eb2e7-e535-49d7-bcfd-c1899f06b69a" />
-</a></td>
-      <td>
-          <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb"
-    target="_blank"
-    alt="Page to JSON browser extension"
-  >
-          <img width="342" height="284" alt="image" src="https://github.com/user-attachments/assets/c971808d-13d9-4301-9314-f51bad7c16a1" />
-          </a>
-      </td>
+    <td width="33%" align="center"><h3>Page to JSON</h3></td>
+    <td width="33%" align="center"><h3>Starship Registry</h3></td>
+    <td width="33%" align="center"><h3>Wireframe Spheres</h3></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON browser extension"><img width="171" height="71" alt="Page to JSON browser extension" src="https://github.com/user-attachments/assets/903eb2e7-e535-49d7-bcfd-c1899f06b69a" /></a><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON popup UI"><img width="171" height="142" alt="Page to JSON popup UI" src="https://github.com/user-attachments/assets/c971808d-13d9-4301-9314-f51bad7c16a1" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://starship-registry.vercel.app/" target="_blank" alt="Starship Registry">
+        <img width="342" height="173" alt="Starship Registry" src="https://github.com/user-attachments/assets/743b3aa6-79ca-4dc4-9c99-310e2163e82e" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://wireframe-spheres.vercel.app/" target="_blank" alt="Wireframe Spheres">
+        <img width="342" height="173" alt="Wireframe Spheres" src="https://github.com/user-attachments/assets/0c08560d-3e60-4a25-b237-b0cf6926161a" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      Chromium extension for exporting stuff to JSON. Privacy-focused. Available on <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank">Chrome Web Store</a>.
+    </td>
+    <td width="33%" valign="top" align="center">
+      Really simple Next.js front end concept with cool animations and maxed out Lighthouse and SonarQube scores
+    </td>
+    <td width="33%" valign="top" align="center">
+      Orb Pondering Simulator
+    </td>
   </tr>
 </table>
-  <br/>
-  <br/>
-  <h2>Starship Registry</h2>
-    Heavy animations with peak front-end metrics. Maxed out Lighthouse and SonarQube scores.
-  <br/>
-    <br/>
-  <table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><a
-    href="https://starship-registry.vercel.app/"
-    target="_blank"
-    alt="Starship Registry"
-  >
-<img width="634" height="320" alt="Adobe Express - Screen Recording 2026-07-20 at 01 04 44" src="https://github.com/user-attachments/assets/743b3aa6-79ca-4dc4-9c99-310e2163e82e" />
-          </a>
-      </td>
-  </tr>
-  </table>
-</a>
-  <br/>
-  <br/>
-    <h2>Wireframe Spheres</h2>
-    Customizable Spheres with Physics
-  <br/>
-    <br/>
-  <table>
-  <tr>
-    <td><a
-    href="https://wireframe-spheres.vercel.app/"
-    target="_blank"
-    alt="Wireframe Spheres"
-  >
-<img width="498" height="252" alt="Adobe Express - Screen Recording 2026-07-20 at 01 22 57" src="https://github.com/user-attachments/assets/0c08560d-3e60-4a25-b237-b0cf6926161a" />
-          </a>
-      </td>
-  </tr>
-  </table>
-</a>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+
+<br/>
+<br/>
 
 ---
-
 
 <br>
 <a
