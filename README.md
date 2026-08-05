@@ -14,16 +14,16 @@
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON browser extension"><img width="171" height="71" alt="Page to JSON browser extension" src="https://github.com/user-attachments/assets/903eb2e7-e535-49d7-bcfd-c1899f06b69a" /></a><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON popup UI"><img width="171" height="142" alt="Page to JSON popup UI" src="https://github.com/user-attachments/assets/c971808d-13d9-4301-9314-f51bad7c16a1" /></a>
+      <a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON browser extension"><img width="123" alt="Page to JSON browser extension" src="https://github.com/user-attachments/assets/903eb2e7-e535-49d7-bcfd-c1899f06b69a" /></a><a href="https://chromewebstore.google.com/detail/cbifbkecebpkinomofckjkkgjlkimmbf?utm_source=item-share-cb" target="_blank" alt="Page to JSON popup UI"><img width="123" alt="Page to JSON popup UI" src="https://github.com/user-attachments/assets/c971808d-13d9-4301-9314-f51bad7c16a1" /></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://starship-registry.vercel.app/" target="_blank" alt="Starship Registry">
-        <img width="342" height="173" alt="Starship Registry" src="https://github.com/user-attachments/assets/743b3aa6-79ca-4dc4-9c99-310e2163e82e" />
+        <img width="250" alt="Starship Registry" src="https://github.com/user-attachments/assets/743b3aa6-79ca-4dc4-9c99-310e2163e82e" />
       </a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://wireframe-spheres.vercel.app/" target="_blank" alt="Wireframe Spheres">
-        <img width="342" height="173" alt="Wireframe Spheres" src="https://github.com/user-attachments/assets/0c08560d-3e60-4a25-b237-b0cf6926161a" />
+        <img width="250" alt="Wireframe Spheres" src="https://github.com/user-attachments/assets/0c08560d-3e60-4a25-b237-b0cf6926161a" />
       </a>
     </td>
   </tr>
