@@ -59,4 +59,10 @@
     target="_blank"
     alt="CodeWars Profile."
   ><img src="https://img.shields.io/badge/-CodeWars-222?logo=CodeWars&logoColor=AD2C27" /></a>
+    &nbsp;&nbsp;&nbsp;
+<a
+    href="https://leetcode.com/u/goldenmaximo/"
+    target="_blank"
+    alt="LeetCode Profile."
+  ><img src="https://img.shields.io/badge/-LeetCode-222?logo=LeetCode&logoColor=FFA116" /></a>
 <br><br>
