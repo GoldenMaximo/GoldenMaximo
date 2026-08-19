@@ -38,11 +38,6 @@
       Orb Pondering Simulator
     </td>
   </tr>
-      <tr>
-            <td width="33%" valign="top" align="center">‎ </td>
-                    <td width="33%" valign="top" align="center">‎ </td>
-                    <td width="33%" valign="top" align="center">‎ </td>
-  </tr>
     <tr>
     <td width="33%" align="center"><h3>Old Portfolio</h3></td>
         </tr>
