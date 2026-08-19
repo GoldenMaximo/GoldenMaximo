@@ -38,10 +38,21 @@
       Orb Pondering Simulator
     </td>
   </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td>Older Projects (2019 - 2020):</td>
+  </tr>
+</table>
+<br>
+
+<table>
   <tr>
     <td width="33%" align="center"><h3>Old Portfolio</h3></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="33%" align="center"><h3>Deno To-Do</h3></td>
+    <td width="33%" align="center"><h3>CSS Realistic Water</h3></td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
@@ -49,15 +60,27 @@
         <img width="250" alt="Old Portfolio" src="https://github.com/user-attachments/assets/fb435090-e338-4e02-b1f2-9e8d63de3e39" />
       </a>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/GoldenMaximo/Deno-To-Do" target="_blank" alt="Deno To-Do">
+        <img width="250" alt="Deno To-Do" src="https://raw.githubusercontent.com/GoldenMaximo/Deno-To-Do/refs/heads/master/public/demo.gif" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://goldenmaximo.github.io/CSS-Realistic-Water/" target="_blank" alt="CSS Realistic Water">
+        <img width="250" alt="CSS Realistic Water" src="https://github.com/user-attachments/assets/181113f1-a92f-44bb-be55-c95d2d0081b8" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       Old Portfolio from back in the day. Before LLMs were a thing. So you know everything was hand-coded (feels weird having to point this out, times have changed lol)
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="33%" valign="top" align="center">
+      ✅ To-Do App made with <a href="https://github.com/GoldenMaximo/Deno-To-Do" target="_blank">Deno, React.js &amp; MongoDB</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      🌊 Realistic water animation with just <a href="https://github.com/GoldenMaximo/CSS-Realistic-Water" target="_blank">CSS &amp; HTML</a>
+    </td>
   </tr>
 </table>
 
