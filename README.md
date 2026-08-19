@@ -38,20 +38,26 @@
       Orb Pondering Simulator
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="33%" align="center"><h3>Old Portfolio</h3></td>
-        </tr>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://gustavomaximo.dev" target="_blank" alt="Old Portfolio">
         <img width="250" alt="Old Portfolio" src="https://github.com/user-attachments/assets/fb435090-e338-4e02-b1f2-9e8d63de3e39" />
       </a>
     </td>
-    </tr>
-    <tr>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
-  Old Portfolio from back in the day. Before LLMs were a thing. So you know everything was hand-coded (feels weird having to point this out, times have changed lol)
+      Old Portfolio from back in the day. Before LLMs were a thing. So you know everything was hand-coded (feels weird having to point this out, times have changed lol)
     </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
